@@ -319,7 +319,7 @@ max-width: 100%;
 .about .about-content .image::before {
     content: '';
     position: absolute ;
-    background-color: rgb(240, 175, 175);
+    background-color: rgb(241, 125, 30);
     width: 100px;
     height: calc(100% + 100px);
     top: -50px;
